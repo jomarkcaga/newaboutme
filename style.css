@@ -1,0 +1,70 @@
+body {
+	background-image: url("jomark.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+	margin: none;
+	
+}
+.hero {
+	width: 75%;
+	height: 100%;
+	flex-direction: column;
+	margin: auto;
+	text-align: center;
+}
+.container {
+	margin: auto;
+	width: 80%;
+	height: auto;
+	
+
+}
+.div-top {
+background-color: #77b5fe;
+opacity: .8;
+border-radius: 20px;
+}
+.div-body {
+	background-color:#ff0000;
+	opacity: .7;
+	border-radius: 20px;
+}
+.div-info {
+	width: 80%;
+	margin: auto;
+	padding: 10px 20px 20px 20px;
+	
+}
+p {
+	text-align: justify;
+}
+.social-links {
+	margin: auto;
+	padding: 10px;
+}
+.social-links a{
+	width: 80px;
+	height: 80px;
+	text-align: center;
+	text-decoration: none;
+	color: #FFFFFF;
+	padding: 20px;
+}
+.social-links a .fab {
+	font-size: 30px;
+	line-height: 80px;
+}
+.img {
+	margin: 20px;
+}
+img {
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+	border-radius: 100px;
+	margin-top: 20px;
+
+}
