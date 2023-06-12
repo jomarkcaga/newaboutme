@@ -38,6 +38,13 @@ border-radius: 20px;
 	padding: 10px 20px 20px 20px;
 	
 }
+.home{
+	position: absolute;
+	top: 69%;
+	left: 50;
+	right: 25%;
+	transform: translate(-50%,-50%);
+}
 p {
 	text-align: justify;
 }
